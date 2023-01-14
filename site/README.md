@@ -26,7 +26,7 @@ sudo apt install apache2
 
 After this we are already able to browse to the site and receive following HTML
 
-<figure><img src=".gitbook/assets/771159b35c97e429247aac754ad44bf06cc1efa8_2_690x461.png" alt=""><figcaption><p>Standard apache website</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/771159b35c97e429247aac754ad44bf06cc1efa8_2_690x461.png" alt=""><figcaption><p>Standard apache website</p></figcaption></figure>
 
 And, we know it works! We just want the site to show something about the company itself. All of the HTML/CSS/JS code we can drop into the default folder /var/www. There will be an index.html file already, this is the default code, we can just replace this.
 
@@ -49,10 +49,10 @@ In the /etc/samba/smb.conf we can find the samba configuration file. In this fil
 
 Now we can go to this share with a windows machine connected to the network.
 
-<figure><img src=".gitbook/assets/Site_SambaShare.png" alt=""><figcaption><p>Samba share accessed from windows machine</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Site_SambaShare.png" alt=""><figcaption><p>Samba share accessed from windows machine</p></figcaption></figure>
 
 I ilmported custom files with the new webpage that I generated using an online tool.
 
-<figure><img src=".gitbook/assets/Site_NewSite.png" alt=""><figcaption><p>New files (generated)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Site_NewSite.png" alt=""><figcaption><p>New files (generated)</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Site_Site.png" alt=""><figcaption><p>New site</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Site_Site.png" alt=""><figcaption><p>New site</p></figcaption></figure>

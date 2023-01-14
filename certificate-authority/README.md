@@ -50,7 +50,7 @@ State or Province Name (full name) \[Some-State]:**Oost-Vlaanderen**\
 Locality Name (eg, city) \[]:**Aalst**\
 Organization Name (eg, company) \[Internet Widgits Pty Ltd]:**PANDORA**\
 Organizational Unit Name (eg, section) \[]:\
-Common Name (e.g. server FQDN or YOUR name) \[]:**pandora.local**\
+Common Name (e.g. server FQDN or YOUR name) \[]:**ca.pandora.local**\
 Email Address \[]:**admin@pandora.local**
 
 We need to edit the configuration file of OpenSSL
