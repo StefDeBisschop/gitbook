@@ -1,5 +1,5 @@
 ---
-description: 'Step 3: Planning Complete'
+description: Planning Complete
 ---
 
 # The Plan

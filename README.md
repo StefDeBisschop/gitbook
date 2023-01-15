@@ -1,5 +1,5 @@
 ---
-description: 'Step 1: The beginning of Pandora'
+description: The beginning of Pandora
 ---
 
 # The Pandora Project

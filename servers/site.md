@@ -1,5 +1,5 @@
 ---
-description: 'Step 6: Setting up the site with Apache'
+description: Setting up the site with Apache
 ---
 
 # Site

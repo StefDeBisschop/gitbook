@@ -1,5 +1,5 @@
 ---
-description: 'Step 7: Setting up the CA for HTTPS traffic'
+description: Setting up the CA for HTTPS traffic
 ---
 
 # Certificate Authority

@@ -1,5 +1,5 @@
 ---
-description: 'Step 2: Planning out the plan'
+description: Planning out the plan
 ---
 
 # Planning

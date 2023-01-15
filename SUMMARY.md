@@ -3,10 +3,20 @@
 * [The Pandora Project](README.md)
 * [Planning](planning.md)
 * [The Plan](the-plan.md)
-* [Network Architecture](network-architecture.md)
-* [The Firewall](the-firewall/README.md)
-  * [Setting up the IPSec Tunnel](the-firewall/setting-up-the-ipsec-tunnel.md)
-  * [Making the rules](the-firewall/making-the-rules.md)
-* [Site](site/README.md)
-* [Certificate Authority](certificate-authority/README.md)
-  * [Site Certificate](certificate-authority/site-certificate.md)
+
+## Administration
+
+* [Untitled](administration/untitled.md)
+
+## Network
+
+* [Network Architecture](network/network-architecture.md)
+
+## Servers
+
+* [The Firewall](servers/the-firewall/README.md)
+  * [Setting up the IPSec Tunnel](servers/the-firewall/setting-up-the-ipsec-tunnel.md)
+  * [Making the rules](servers/the-firewall/making-the-rules.md)
+* [Site](servers/site.md)
+* [Certificate Authority](servers/certificate-authority/README.md)
+  * [Site Certificate](servers/certificate-authority/site-certificate.md)

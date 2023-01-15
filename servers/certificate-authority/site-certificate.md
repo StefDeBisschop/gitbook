@@ -44,10 +44,10 @@ Keep in mind that this is a temporary solution as we will implement this in a GP
 
 <div>
 
-<figure><img src="../.gitbook/assets/Site_Certificate.png" alt=""><figcaption><p>Site certificate signed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Site_Certificate.png" alt=""><figcaption><p>Site certificate signed</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Site_Certificate_Full.png" alt=""><figcaption><p>Certificate path &#x26; self-signed certificate</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Site_Certificate_Full.png" alt=""><figcaption><p>Certificate path &#x26; self-signed certificate</p></figcaption></figure>
 
 </div>
