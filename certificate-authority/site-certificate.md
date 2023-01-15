@@ -35,3 +35,19 @@ openssl ca -in exampledomain.com.csr -out exampledomain.com.crt
 ```
 
 Now, the certificate is signed and can be transfered back to the site server. When we browse to the site on a windows machine we will see the certificate.&#x20;
+
+{% hint style="info" %}
+Because our CA is not a trusted Authority, browsers will label the website as untrusted. After importing the CA root certificate in the local group policy, IE will trust this.
+
+Keep in mind that this is a temporary solution as we will implement this in a GPO later on.
+{% endhint %}
+
+<div>
+
+<figure><img src="../.gitbook/assets/Site_Certificate.png" alt=""><figcaption><p>Site certificate signed</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Site_Certificate_Full.png" alt=""><figcaption><p>Certificate path &#x26; self-signed certificate</p></figcaption></figure>
+
+</div>
