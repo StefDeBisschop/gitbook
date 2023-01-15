@@ -6,7 +6,7 @@ description: A critical step
 
 After deciding the approach, we needed a network diagram. In this diagram we implemented the servers with the desired IP address, OS and software used.
 
-<figure><img src="../.gitbook/assets/SysDiagramV1.png" alt=""><figcaption><p>Network Architecture</p></figcaption></figure>
+<figure><img src=".gitbook/assets/SysDiagramV1.png" alt=""><figcaption><p>Network Architecture</p></figcaption></figure>
 
 One thing you can clearly see in the architecture is the use of 3 zones: Client, Servers and DMZ. This design is critical for security, this will be further explained in the next step (firewalling and VPN).
 

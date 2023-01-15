@@ -8,7 +8,7 @@ I've chosen PFSense as firewall because of a few reasons; it will run on Linux/F
 
 I started with setting up both the PFSense firewalls including: Setting up the VM's, configuring the interfaces, setting up VPN and the rules.
 
-<figure><img src="../../.gitbook/assets/SysDiagramV1_FW.png" alt=""><figcaption><p>Firewall's on the Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SysDiagramV1_FW.png" alt=""><figcaption><p>Firewall's on the Diagram</p></figcaption></figure>
 
 I kept a few things in mind when setting them up, including the 3 zones:
 
@@ -41,20 +41,20 @@ The installation of pfsense itself is pretty straight forward and easy. Choosing
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Firewall_Aalst.png" alt=""><figcaption><p>Firewall Aalst</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Firewall_Aalst.png" alt=""><figcaption><p>Firewall Aalst</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Firewall_Gent.png" alt=""><figcaption><p>Firewall Gent</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Firewall_Gent.png" alt=""><figcaption><p>Firewall Gent</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Firewall_Aalst_Web.png" alt=""><figcaption><p>Webinterface Aalst</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Firewall_Aalst_Web.png" alt=""><figcaption><p>Webinterface Aalst</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Firewall_Gent_Web.png" alt=""><figcaption><p>Webinterface Gent</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Firewall_Gent_Web.png" alt=""><figcaption><p>Webinterface Gent</p></figcaption></figure>
 
 </div>
