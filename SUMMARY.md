@@ -7,6 +7,7 @@
 ## Administration
 
 * [Floor Plans](administration/floor-plans.md)
+* [Quote - Cables](administration/quote-cables.md)
 
 ## Network
 
