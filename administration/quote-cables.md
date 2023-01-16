@@ -28,5 +28,21 @@ Meeting Room -> Server Room: (10 \* 2) + (0.20 \* 10 \* 2) + (0.15 \* 10 \* 2) +
 Management -> Server Room: (3 \* 2) + (0.20 \* 3 \* 2) + (0.15 \* 3 \* 2) + 5 = 14.05m\
 IT -> Server Room: (5 \* 2) + (0.20 \* 5 \* 2) + (0.15 \* 5 \* 2) + 5 = 16.75m
 
-The final cable lenght needed in the Site of Gent is: 118,35m = \~120m
+Because of the implementation of access point we are going to need more, so we will take this into account by adding 50m more cable.
 
+The final cable lenght needed in the Site of Gent is: 118,35m + 50m = \~170m
+
+### Calculating cable lenght: Site Aalst
+
+In Aalst, the server is located in a small server rack in the outer left corner of the office.
+
+<table><thead><tr><th>Point A</th><th>Point B</th><th>Lenght in m (BEV)</th><th data-type="number">Cable count</th></tr></thead><tbody><tr><td>Open workspace</td><td>Server Rack</td><td>7</td><td>2</td></tr><tr><td>Admin &#x26; Sales</td><td>Server Rack</td><td>8</td><td>2</td></tr></tbody></table>
+
+Again, we keep in mind the slack and we have 2 cables to run. Because we have no walls between the server rack and the office itself, we don't need to have the 15% slack.
+
+Open Workspace -> Server Rack: (7 \* 2) + (0.20 \* 7 \* 2) = 16.8m\
+Admin & Sales -> Server Rack: (8 \* 2) + (0.20 \* 8 \* 2) = 19.2m
+
+Implentation of access points require around 25m extra.
+
+The final cable lenght needed in the Site of Gent is: 36m + 25m = \~61m
