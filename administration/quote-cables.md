@@ -14,7 +14,7 @@ At first we need to calculate the lenght that we need. I measured the bird eye's
 
 We have a couple cables to run:
 
-<table><thead><tr><th>Point A</th><th>Point  B</th><th data-type="number">Lenght in m (BYV)</th><th>Cable count</th></tr></thead><tbody><tr><td>Reception</td><td>Admin &#x26; Sales (switch)</td><td>7</td><td>2</td></tr><tr><td>Consultants</td><td>Admin &#x26; Sales (switch)</td><td>6</td><td>2</td></tr><tr><td>Admin &#x26; Sales</td><td>Server Room</td><td>10</td><td>2</td></tr><tr><td>Meeting Room</td><td>Server Room</td><td>10</td><td>2</td></tr><tr><td>Management</td><td>Server Room</td><td>3</td><td>2</td></tr><tr><td>IT</td><td>Server Room</td><td>5</td><td>2</td></tr></tbody></table>
+<table><thead><tr><th>Point A</th><th>Point  B</th><th data-type="number">Lenght in m (BEV)</th><th>Cable count</th></tr></thead><tbody><tr><td>Reception</td><td>Admin &#x26; Sales (switch)</td><td>7</td><td>2</td></tr><tr><td>Consultants</td><td>Admin &#x26; Sales (switch)</td><td>6</td><td>2</td></tr><tr><td>Admin &#x26; Sales</td><td>Server Room</td><td>10</td><td>2</td></tr><tr><td>Meeting Room</td><td>Server Room</td><td>10</td><td>2</td></tr><tr><td>Management</td><td>Server Room</td><td>3</td><td>2</td></tr><tr><td>IT</td><td>Server Room</td><td>5</td><td>2</td></tr></tbody></table>
 
 Now we have the lenghts and the cable counts (how many cables need to be run); this is important for future proofing, EtherChannels, ... . We will calculate a 20% slack for cable termination and a 15% slack because we only have certain points of entry through the wall.
 
