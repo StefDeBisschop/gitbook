@@ -46,3 +46,12 @@ Admin & Sales -> Server Rack: (8 \* 2) + (0.20 \* 8 \* 2) = 19.2m
 Implentation of access points require around 25m extra.
 
 The final cable lenght needed in the Site of Gent is: 36m + 25m = \~61m
+
+### Quote
+
+I also asked a quote for 4 small networking closest for mounting the networking hardware (ceiling or wall).
+
+<figure><img src="../.gitbook/assets/Cables - Screenshot.png" alt=""><figcaption><p>Quote for all the cables</p></figcaption></figure>
+
+{% file src="../.gitbook/assets/Quote cables.pdf" %}
+
