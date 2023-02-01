@@ -104,3 +104,12 @@ In packet tracer its possible to have services running so the Site server hosts 
 <figure><img src="../.gitbook/assets/Network_Gent_Site.png" alt=""><figcaption><p>Site service</p></figcaption></figure>
 
 </div>
+
+### Wireless
+
+The wireless network consists of 3 LWAP (Lightweight Access Points) and one WLC (Wireless Controller). The VLAN 160 (192.168.16.0/24) is used  to connect all the clients and the management of the wireless devices are just on the native vlan 1.
+
+<figure><img src="../.gitbook/assets/Network_Gent_W_Interface.png" alt=""><figcaption><p>Wireless interface VLAN 160</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Network_Gent_W_.png" alt=""><figcaption><p>WLAN settings</p></figcaption></figure>
+
