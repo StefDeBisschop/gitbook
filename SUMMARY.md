@@ -8,6 +8,7 @@
 
 * [Floor Plans](administration/floor-plans.md)
 * [Quote - Cables](administration/quote-cables.md)
+* [Quote - Firewall](administration/quote-firewall.md)
 
 ## Network
 
