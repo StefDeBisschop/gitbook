@@ -12,7 +12,7 @@ The following picture is the full network topology including wireless and WAN em
 
 Because of the size and complexity of the network I decided to cut it down in 3 main parts:&#x20;
 
-* WAN emulation and connection between the 2
+* WAN emulation and connection between the 2 sites
 * Site Gent
 * Site Aalst
 
@@ -29,7 +29,7 @@ The edge routers have their own ISP lines to the WAN and have 2 main functions:
 
 <figure><img src="../.gitbook/assets/Network_WANInside.png" alt=""><figcaption><p>WAN cluster</p></figcaption></figure>
 
-The following picture is the running config of the edge router in Gent. You can see the IPSEC tunnel , the WAN interface and the extended access list needed to see which IP addresses needed to transfered via the tunnel.&#x20;
+The following picture is the running config of the edge router in Gent. You can see the IPSEC tunnel, the WAN interface and the extended access list needed to see which IP addresses needed to transfered via the tunnel.&#x20;
 
 ```
 crypto isakmp policy 10
@@ -74,4 +74,14 @@ crypto map VPN-MAP 10 ipsec-isakmp
 {% hint style="info" %}
 We mostly set up the Serial 0/1/0 interface, although it has a backup interface because packet tracer has its limits. We can't use 2 interfaces or use a backup interface for both NAT and IPSec.
 {% endhint %}
+
+When the IPsec tunnel is not being used (Ex.: 192.168.15.10 connects to 8.8.8.8) we don't need the tunnel but we need the translation to NAT. So I made a simple extended ACL for when the NAT will be used. In the ACL we only refer to 8.8.8.8 and 66.5.88.76 as remote adresses in the WAN because our WAN emulation only has those 2 servers.
+
+```
+ip access-list extended NAT
+ permit ip any host 8.8.8.8
+ permit ip any host 66.5.88.76
+!
+ip nat inside source list NAT interface Serial0/1/0 overload
+```
 
