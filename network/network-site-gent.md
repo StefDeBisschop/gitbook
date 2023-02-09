@@ -113,3 +113,6 @@ The wireless network consists of 3 LWAP (Lightweight Access Points) and one WLC 
 
 <figure><img src="../.gitbook/assets/Network_Gent_W_.png" alt=""><figcaption><p>WLAN settings</p></figcaption></figure>
 
+The WLC also has a DHCP pool for the LWAP's in the 192.168.0.0/24 range.
+
+<figure><img src="../.gitbook/assets/Network_Gent_DHCP_LWAP.png" alt=""><figcaption><p>Access Points DHCP pool</p></figcaption></figure>

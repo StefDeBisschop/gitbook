@@ -14,6 +14,7 @@
 * [Network Architecture](network-architecture.md)
 * [Networking](network/networking.md)
 * [Network Site Gent](network/network-site-gent.md)
+* [Network Site Aalst](network/network-site-aalst.md)
 
 ## Servers
 
