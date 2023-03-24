@@ -27,4 +27,6 @@
 * [Site](site/README.md)
 * [Certificate Authority](certificate-authority/README.md)
   * [Site Certificate](certificate-authority/site-certificate.md)
-* [Mail](servers/mail.md)
+* [Mail](servers/mail/README.md)
+  * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
+  * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
