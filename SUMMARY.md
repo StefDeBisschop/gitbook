@@ -19,12 +19,6 @@
 * [Network Site Gent](network/network-site-gent.md)
 * [Network Site Aalst](network/network-site-aalst.md)
 
-***
-
-* [Mail](mail/README.md)
-  * [Integrate AD - Postfix](mail/integrate-ad-postfix.md)
-  * [Integrate AD - Roundcube Address Book](mail/integrate-ad-roundcube-address-book.md)
-
 ## Servers
 
 * [Certificate Authority](certificate-authority/README.md)
@@ -32,4 +26,7 @@
 * [The Firewall](the-firewall/README.md)
   * [Setting up the IPSec Tunnel](the-firewall/setting-up-the-ipsec-tunnel.md)
   * [Making the rules](the-firewall/making-the-rules.md)
+* [Mail](servers/mail/README.md)
+  * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
+  * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
 * [Site](site/README.md)
