@@ -30,7 +30,4 @@
 * [Mail](servers/mail/README.md)
   * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
   * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
-* [Copy of Mail](servers/copy-of-mail/README.md)
-  * [Integrate AD - Postfix](servers/copy-of-mail/integrate-ad-postfix.md)
-  * [Copy of Integrate AD - Postfix](servers/copy-of-mail/copy-of-integrate-ad-postfix.md)
-  * [Integrate AD - Roundcube Address Book](servers/copy-of-mail/integrate-ad-roundcube-address-book.md)
+* [Page 1](servers/page-1.md)
