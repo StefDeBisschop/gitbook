@@ -15,9 +15,6 @@
 ## Network
 
 * [Network Architecture](network-architecture.md)
-* [Mail](network/mail/README.md)
-  * [Integrate AD - Postfix](network/mail/integrate-ad-postfix.md)
-  * [Integrate AD - Roundcube Address Book](network/mail/integrate-ad-roundcube-address-book.md)
 * [Networking](network/networking.md)
 * [Network Site Gent](network/network-site-gent.md)
 * [Network Site Aalst](network/network-site-aalst.md)
@@ -30,3 +27,10 @@
   * [Setting up the IPSec Tunnel](the-firewall/setting-up-the-ipsec-tunnel.md)
   * [Making the rules](the-firewall/making-the-rules.md)
 * [Site](site/README.md)
+* [Mail](servers/mail/README.md)
+  * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
+  * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
+* [Copy of Mail](servers/copy-of-mail/README.md)
+  * [Integrate AD - Postfix](servers/copy-of-mail/integrate-ad-postfix.md)
+  * [Copy of Integrate AD - Postfix](servers/copy-of-mail/copy-of-integrate-ad-postfix.md)
+  * [Integrate AD - Roundcube Address Book](servers/copy-of-mail/integrate-ad-roundcube-address-book.md)
