@@ -15,15 +15,15 @@
 ## Network
 
 * [Network Architecture](network-architecture.md)
+* [Mail](network/mail/README.md)
+  * [Integrate AD - Postfix](network/mail/integrate-ad-postfix.md)
+  * [Integrate AD - Roundcube Address Book](network/mail/integrate-ad-roundcube-address-book.md)
 * [Networking](network/networking.md)
 * [Network Site Gent](network/network-site-gent.md)
 * [Network Site Aalst](network/network-site-aalst.md)
 
 ## Servers
 
-* [Mail](servers/mail/README.md)
-  * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
-  * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
 * [Certificate Authority](certificate-authority/README.md)
   * [Site Certificate](certificate-authority/site-certificate.md)
 * [The Firewall](the-firewall/README.md)
