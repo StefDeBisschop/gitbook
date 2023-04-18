@@ -24,8 +24,6 @@
 
 * [Certificate Authority](certificate-authority/README.md)
   * [Site Certificate](certificate-authority/site-certificate.md)
-* [Page 1](servers/page-1/README.md)
-  * [Page 4](servers/page-1/page-4.md)
 * [The Firewall](the-firewall/README.md)
   * [Setting up the IPSec Tunnel](the-firewall/setting-up-the-ipsec-tunnel.md)
   * [Making the rules](the-firewall/making-the-rules.md)
@@ -33,6 +31,3 @@
   * [Integrate AD - Postfix](servers/mail/integrate-ad-postfix.md)
   * [Integrate AD - Roundcube Address Book](servers/mail/integrate-ad-roundcube-address-book.md)
 * [Site](site/README.md)
-* [Page 2](servers/page-2/README.md)
-  * [Page 5](servers/page-2/page-5.md)
-* [Page 6](servers/page-6.md)
