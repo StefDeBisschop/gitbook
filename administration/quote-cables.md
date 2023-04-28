@@ -1,8 +1,8 @@
 # Quote - Cables
 
-On both of out site we will need to cable the network. I decided to go with CAT5e cabling beacause it offers support for Gigabit Ethernet speeds of up to 1000 Mbps, a bandwidth of 350 MHz and backwards compatibility with standard Cat5 cables.
+On both of our sites we will need to cable the network. I decided to go with CAT5e cabling because it offers support for Gigabit Ethernet speeds of up to 1000 Mbps, a bandwidth of 350 MHz and backwards compatibility with standard Cat5 cables.
 
-At first we need to calculate the lenght that we need. I measured the bird eye's view from the starting point, point A, to the destination point B. In the calculation we are considering a few things:
+At first we need to calculate the lenght that we need. I measured the bird's eye view from the starting point, point A, to the destination point B. In the calculation we are considering a few things:
 
 * The switches that aren't located in the server room will be in the ceiling or close to the ceiling.
 * The switches in the server room will be in a server rack, I account for approx. 5m to the switch, from the ceiling.
@@ -52,6 +52,4 @@ The final cable lenght needed in the Site of Gent is: 36m + 25m = \~61m
 I also asked a quote for 4 small networking closest for mounting the networking hardware (ceiling or wall).
 
 <figure><img src="../.gitbook/assets/Cables - Screenshot.png" alt=""><figcaption><p>Quote for all the cables</p></figcaption></figure>
-
-{% file src="../.gitbook/assets/Quote cables.pdf" %}
 

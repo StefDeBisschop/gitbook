@@ -10,7 +10,7 @@ At the top of the document there was a little story that I didnt need to worry a
 
 ## Using Linux
 
-When looking at the requirements itself: i wanted to begin with the server side of this project, it will take up most of the time. I wanted to use as much Linux servers as possible because they are very reliable and don't use a lot of hardware. The full project will run on my own laptop, so it is very important to think ahead.
+When looking at the requirements themselves: i wanted to begin with the server side of this project, it will take up most of the time. I wanted to use as much Linux servers as possible because they are very reliable and don't use a lot of hardware. The full project will run on my laptop, so it is very important to think ahead.
 
 ## Server list
 
@@ -27,7 +27,7 @@ A list of the servers and software on it:
 
 ## Keeping track of the tasks
 
-For keeping track of all the tasks I came across a online program named 'Clickup'. It has a board and list view, I can track my time and create tags. Enough possibilities.
+For keeping track of all the tasks I came across an online program named 'Clickup'. It has a board and list view, I can track my time and create tags. Enough possibilities.
 
 I divided all of the big tasks into 'milestone' tasks:
 

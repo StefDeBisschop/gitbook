@@ -4,7 +4,7 @@ description: Planning out the plan
 
 # Planning
 
-One of the most important steps in a project as big as this one is planning. We need to figure out what our needs are and how to break it down in big and small steps.
+One of the most important steps in a project as big as this one is planning. We need to figure out what our needs are and how to break them down in big and small steps.
 
 ## The needs
 
@@ -48,7 +48,7 @@ _**Set up a complete infrastructure for this company. This implementation includ
 
 ## The needs, but tidier
 
-This is alot. I wanted to have a tidier view of what the requirments were and where to begin. So with every of the 15 steps I asked myself some questions:
+This is a lot. I wanted to have a tidier view of what the requirments were and where to begin. So with every of the 15 steps I asked myself some questions:
 
 * Is this a administrative, system or networking task?
 * If a system task, what system do I need to use (software, hardware, ...). Is this really important for other tasks?
