@@ -34,3 +34,7 @@
   * [Repo's and jobs](servers/backup/repos-and-jobs.md)
 * [Storage](servers/storage.md)
 * [Auto Deployment](servers/auto-deployment.md)
+
+***
+
+* [Conclusion](conclusion.md)
