@@ -33,7 +33,7 @@
 * [Backup](servers/backup/README.md)
   * [Repo's and jobs](servers/backup/repos-and-jobs.md)
 * [Storage](servers/storage.md)
-* [Auto Deployment](servers/auto-deployment/README.md)
+* [Auto Deployment](servers/auto-deployment.md)
   * [Golden Image](servers/auto-deployment/golden-image.md)
 
 ***

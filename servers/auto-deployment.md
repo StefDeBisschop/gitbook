@@ -42,7 +42,7 @@ FOG Server installation modes:
           to make this server act as a node in a storage group
 ```
 
-Followup questions include:
+Follow-up questions include:
 
 * What is the IP address to be used by this FOG Server?
 * Would you like to setup a router address for the DHCP Server? \[Y/n]
