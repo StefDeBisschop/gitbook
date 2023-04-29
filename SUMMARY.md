@@ -36,6 +36,7 @@
 * [Auto Deployment](servers/auto-deployment.md)
   * [Golden Image](servers/auto-deployment/golden-image.md)
   * [Capturing the image](servers/auto-deployment/capturing-the-image.md)
+  * [Deploying the image](servers/auto-deployment/deploying-the-image.md)
 
 ***
 
