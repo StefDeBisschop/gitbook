@@ -11,6 +11,7 @@
 * [Quote - Firewall](administration/quote-firewall.md)
 * [Quote - Mail Software](administration/quote-mail-software.md)
 * [Quote - Networking](administration/quote-networking.md)
+* [Quote - Server and Clients](administration/quote-server-and-clients.md)
 
 ## Network
 
