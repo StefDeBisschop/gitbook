@@ -54,3 +54,4 @@ Follow-up questions include:
 
 After completing all of the setup questions, the installation will start. When done we are able to connect to the server via HTTP in a web browser.
 
+<figure><img src="../.gitbook/assets/Deploy_FOG_Image_3.png" alt=""><figcaption><p>FOG GUI</p></figcaption></figure>
