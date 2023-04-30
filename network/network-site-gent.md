@@ -4,7 +4,7 @@ The network at the site in Gent is the most complex. I will be explaining this s
 
 <figure><img src="../.gitbook/assets/Network_Gent.png" alt=""><figcaption><p>Network Site Gent</p></figcaption></figure>
 
-### VLAN's
+## VLAN's
 
 I use VLAN to seperate the different networks from each other. It's just the same as on the server and used on the firewall to make rules.
 
@@ -48,7 +48,7 @@ interface Vlan160
  ip helper-address 192.168.10.100
 ```
 
-### VTP
+## VTP
 
 VTP stands for VLAN Trunking Protocol, a cisco protocol that makes it possible to advertise the VLAN's to all switches in that domain (VTP domain). On this network, the L3 switch is the VTP server with pandoraVTP as domain. The other switches in the network are both clients on that domain.
 
@@ -75,13 +75,13 @@ MD5 digest                        : 0x6E 0x87 0x88 0x7F 0x71 0xD1 0x92 0x75
 ```
 {% endcode %}
 
-### STP & Port-channels
+## STP & Port-channels
 
 <figure><img src="../.gitbook/assets/Network_Gent_STP.jpg" alt=""><figcaption><p>Port channels vizualized</p></figcaption></figure>
 
 As you notice; the network consists out of 4 switches where 3 of them are in a STP. I decided to have one switch at sales because of all the workstations connected and one in the meeting room because of the distance between the other switches. It was a great opportunity to make an STP and make port channels for redundancy; if one interface goes down, the other will work as a backup and vise-versa.
 
-### Servers
+## Servers
 
 In packet tracer its possible to have services running so the Site server hosts a site, the mail server is a SMTP & POP3 server and the DNS & DHCP server hosts those services.
 
@@ -105,7 +105,7 @@ In packet tracer its possible to have services running so the Site server hosts 
 
 </div>
 
-### Wireless
+## Wireless
 
 The wireless network consists of 3 LWAP (Lightweight Access Points) and one WLC (Wireless Controller). The VLAN 160 (192.168.16.0/24) is used  to connect all the clients and the management of the wireless devices are just on the native vlan 1.
 

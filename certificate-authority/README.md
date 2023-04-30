@@ -28,7 +28,7 @@ sudo touch /root/ca/index.txt
 echo ‘1000’ > /root/ca/serial
 ```
 
-### Self-signed certificate
+## Self-signed certificate
 
 At first we create the self-signed certificate for the CA itself (so the CA trusts itself). We generate a AES256 4096 bit key that we will output to the private folder.
 

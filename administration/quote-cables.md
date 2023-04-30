@@ -47,7 +47,7 @@ Implentation of access points require around 25m extra.
 
 The final cable lenght needed in the Site of Gent is: 36m + 25m = \~61m
 
-### Quote
+## Quote
 
 I also asked a quote for 4 small networking closest for mounting the networking hardware (ceiling or wall).
 

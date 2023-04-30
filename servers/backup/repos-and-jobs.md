@@ -10,7 +10,7 @@ We set this up via the Veeam console on one of the AD servers. When launching th
 
 <figure><img src="../../.gitbook/assets/Backup_Console_Connect.png" alt=""><figcaption><p>Veeam Console</p></figcaption></figure>
 
-## Repository's
+### Repository's
 
 First we will make 2 repository's.
 
@@ -19,7 +19,7 @@ First we will make 2 repository's.
 
 <figure><img src="../../.gitbook/assets/Backup_Repos.png" alt=""><figcaption><p>Veeam Repository's</p></figcaption></figure>
 
-## Protection Group and File Shares
+### Protection Group and File Shares
 
 Next up we'll be connecting the servers with Veeam. This means that Veeam is able to connect to the server in our infrastructure and make a full or partial backup of them.
 
@@ -29,7 +29,7 @@ And because we are working with File Shares we'll also be adding them to Veeam. 
 
 <figure><img src="../../.gitbook/assets/Backup_FileShares.png" alt=""><figcaption><p>Veeam File Servers</p></figcaption></figure>
 
-## Jobs
+### Jobs
 
 Now the final part: jobs. This will make everything come together as one part.
 
